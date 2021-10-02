@@ -1,0 +1,16 @@
+
+Danh sách các topic của khóa học:
+1. C programming in Linux.
+2. Lập trình thao tác với File.
+3. Process.
+4. Signal.
+5. Lập trình multi thread.
+6. Socket programming.
+7. Shared memory.
+8. Hello world kernel module - Blink led.
+9 + 10. Character driver.
+11 + 12. Device tree.
+13 + 14. Watchdog driver.
+15 + 16. GPIO driver.
+17 + 18. Pin muxing driver.
+19 + 20. Uboot.
